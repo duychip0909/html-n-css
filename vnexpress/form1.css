@@ -1,0 +1,17 @@
+.container .post .title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    height: 400px;
+    width: 410px;
+    flex-direction: column;
+}
+
+.layout {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

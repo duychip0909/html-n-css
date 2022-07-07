@@ -1,0 +1,16 @@
+.container {
+    width: 950px;
+    height: 2300px;
+    display: flex;
+    padding: 0px;
+}
+
+.container .header {
+    width: 300px;
+    height: 950px;
+}
+
+.container .album {
+    width: 564px;
+    height: 920px;
+}
